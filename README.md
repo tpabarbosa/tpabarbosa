@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tpabarbosa
 - 👀 I’m interested in PHP, JS, HTML, CSS
-
+- 🌱 I’m currently learning ...
 
 <!---
 - 🌱 I’m currently learning ...
