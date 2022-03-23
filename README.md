@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatiana Barbosa!</h1>
 
-<hr>
 #### 🔭 Currently working on
 
 - [react-dos-terminal](https://github.com/tpabarbosa/react-dos-terminal)
@@ -24,11 +23,11 @@
 - **Docker**
 <hr>
 
-<h3 align="center">
+<h2 align="center">
 
 👨‍💻 See my [portfolio](https://tpabarbosa.github.io/)
 
-</h3>
+</h2>
 
 <hr>
 <h3 align="left">Get connected</h3>
