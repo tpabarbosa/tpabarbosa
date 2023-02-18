@@ -2,15 +2,23 @@
 
 #### 🔭 Currently working on
 
-- [react-dos-terminal](https://github.com/tpabarbosa/react-dos-terminal)
+- [Moodle LMS to a English Course](https://englishforlifebotucatu.com.br)
+- [Vyudu Inc](https://vyudu.com) 
 
 <hr>
 
 #### 📝 Currently taking courses
 
-- **AWS Expert** (https://www.linuxtips.io/)
+- **Software Analysis and Development (undergraduate)** (https://www.cruzeirodosulvirtual.com.br)
   <br>
 - **JS Expert** (https://javascriptexpert.com.br/)
+
+<hr>
+
+#### 📝 Concluded courses
+
+- **AWS Expert** (https://www.linuxtips.io/)
+  <br>
 
 <hr>
 
